@@ -21,6 +21,6 @@ Take out a new branch called "solution"
 - Make a new endpoint for user episode creation
 - Show all new episodes for a users on an episode route which should be protected
 
-# We use Tailwind and SCSS for UI but you may use any libraries that you may like.
+We use Tailwind and SCSS for UI but you may use any libraries that you may like.
 
-# Be creative with how the application looks
+Be creative with how the application looks
