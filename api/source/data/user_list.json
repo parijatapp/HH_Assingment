@@ -1,6 +1,7 @@
 [
-    { "name": "Jezz", "email": "j@j.com", "password": "12344321" },
-    { "name": "Mark", "email": "m@m.com", "password": "mark_1234" },
-    { "name": "Super hans", "email": "s@s.com", "password": "crack" },
-    { "name": "Blue", "email": "j@w.com", "password": "12344321" }
+    { "name": "Jezz", "email": "jeremy@osbourne.com", "password": "hairblair" },
+    { "name": "Mark", "email": "mark@corrigan.com", "password": "mark_1234" },
+    { "name": "Super hans", "email": "super@hans.com", "password": "crack" },
+    { "name": "Big suze", "email": "posh@me.com", "password": "breakfast" },
+    { "name": "Alan Johnson", "email": "beemer@bmw.com", "password": "fivehundred" }
 ]
