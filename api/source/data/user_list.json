@@ -1,7 +1,14 @@
 [
-    { "name": "Jezz", "email": "jeremy@osbourne.com", "password": "hairblair" },
-    { "name": "Mark", "email": "mark@corrigan.com", "password": "mark_1234" },
-    { "name": "Super hans", "email": "super@hans.com", "password": "crack" },
-    { "name": "Big suze", "email": "posh@me.com", "password": "breakfast" },
-    { "name": "Alan Johnson", "email": "beemer@bmw.com", "password": "fivehundred" }
+  { "name": "Jezz", "email": "jeremy@osbourne.com", "password": "hairblair" },
+  { "name": "Mark", "email": "mark@corrigan.com", "password": "mark_1234" },
+  { "name": "Super hans", "email": "super@hans.com", "password": "crack" },
+  { "name": "Big suze", "email": "posh@me.com", "password": "breakfast" },
+  {
+    "name": "Alan Johnson",
+    "email": "beemer@bmw.com",
+    "password": "fivehundred"
+  },
+  { "name": "diksh", "email": "diksh@abc.com", "password": "diksh" },
+  { "name": "diksh", "email": "email@email", "password": "1234" },
+  { "name": "d", "email": "d@d", "password": "d" }
 ]
