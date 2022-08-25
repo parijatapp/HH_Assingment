@@ -21,4 +21,4 @@ Take out a new branch called "solution"
 
 We use Tailwind and SCSS for UI but you may use any libraries that you may like.
 
-Be creative with how the application UI
+Be creative with how the application looks
